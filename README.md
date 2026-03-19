@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <a href="[https://www.youtube.com/@hemanthr2703](https://www.youtube.com/)" target="_blank">
+  <a href="https://www.youtube.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=plastic" height="25" alt="youtube logo"  />
   </a>
   <a href="https://www.linkedin.com/in/hemanth-r-99203820a/" target="_blank">
